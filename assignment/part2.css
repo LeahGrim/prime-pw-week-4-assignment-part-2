@@ -1,0 +1,60 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  background: url(https://ak.picdn.net/shutterstock/videos/17029351/thumb/1.jpg) center;
+             border: 2px dashed black opacity: 0.01;
+  border-style: dotted dashed solid double;
+  text-decoration-style: double;
+  color: #6A5ACD;
+  padding: 25px;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 8px;
+}
+
+h2{
+  background: url(https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg);
+     border: 5px dashed black;
+  letter-spacing: 8px;
+  color: #F5DEB3;
+  padding: 10px;
+  text-align: center;
+  font-size: 40px;
+  text-shadow: 2px 2px black;
+}
+
+.car{
+  background-color: #191970;
+  padding-bottom: 45px;
+  color: MintCream;
+  text-align: center;
+  border: 5px solid PaleTurquoise;
+  list-style-position: inside;
+  font-size: 20px;
+  letter-spacing: 8px;
+  font-stretch: expanded;
+  font-weight: 400;
+}
+
+img{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  max-width: 50%;
+  align: center;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 25px;
+  background-color: lightblue;
+
+}
+
+/*
+body {
+  background: url(https://ak.picdn.net/shutterstock/videos/17029351/thumb/1.jpg) center;
+             border: 2px dashed black opacity: 0.01;
+
+
+}
+*/
